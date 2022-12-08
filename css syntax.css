@@ -1,0 +1,11 @@
+/*CSS Syntax
+
+selector { property : value;}
+
+selector -> basically it is 'WHO' i.e. who do you want to change the paragraph tags, the heading tags etc.
+
+property -> "WHAT" what you want to change i.e. a background colour, height, width or anything else.
+
+valule -> "How"  how do u wana change background colour i.e. blue,red,black etc.(just an example for value)
+
+important:- Needs to close off the line with the semicolons(;) at the end and colon(:) between property and value.

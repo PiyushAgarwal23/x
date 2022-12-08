@@ -1,0 +1,60 @@
+/****************************************** Tag Selectors ************************************/
+body {
+    background-color: rgb(191, 196, 180);
+
+    
+
+}
+/*here we are changing horizontal row colour, */
+hr {
+    
+   /* border-style: dotted none none;*/
+   border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: 5px;
+    width: 5%;
+    
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+img:hover {
+    background-color: gold;
+}
+/*Pseudo selectors is one the coolest property as it allws to add more style in to ur website, :hover is used as a 
+pseudo selecotr and with the help of this it will change colour to gold whenever the cursor is on top of it.
+/****************************************** Class Selectors ************************************/
+/* Class selecotrs is used to change particular property in the attributes. like in bacon we have make class (.bacon) and changed the property simmilarly with broccoli to change it's color.*/
+.bacon {
+    background-color: black;
+}
+.brocli {
+    background-color: #66BFBF;
+    height: 160px;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/****************************************** id Selectors ************************************/
+
+#heading {
+    color : blue
+}
+
+/****************************************** difffrence between class and id ************************************/
+
+/*Class is used when we want to same style to group of related items.
+
+Id is used when we have to change a single element.
+
+
+we cannot have more than one element in one id .*/
+
